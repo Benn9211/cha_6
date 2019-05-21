@@ -1,2 +1,4 @@
 # cha_7
-THing to Fear
+Thing to fear
+Download from [here](https://github.com/Benn9211/cha_7)
+Run the html file in your browser to see the result.
